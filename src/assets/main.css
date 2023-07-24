@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    font-family: Inter, sans-serif;
+}
+
+:root {
+    --clNavBar:#e056fd;
+    --clTextbar: #f78fb3;
+    --clSpin1:#32ff7e;
+    --clSpin2:#fc5c65;
+    --clSpin3: #18dcff;
+    --clSpin4:#fed330;
+    --clSpin5:#b0c8f7;
+    --clSpin6:#ffb8b8;
+}

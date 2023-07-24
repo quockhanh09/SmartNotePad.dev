@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "C:/Users/Admin/Desktop/SmartNotePad",
+        "use": "@vercel/static-build"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "C:/Users/Admin/Desktop/SmartNotePad/index.html"
+      }
+    ]
+  }
+  
+  
+  
+  
+  
